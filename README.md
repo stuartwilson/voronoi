@@ -3,7 +3,7 @@ Ising spin models on voronoi tesselation
 
 build in the usual cmake way after installing morphologica
 
-run using e.g., ./build/voronoi.cpp 10 5
+run using e.g., ./build/voronoi 10 5
 
 which will run the ising model on a tesselation created from 10 random seed points, at 5 different temperature values (in the range 0 to 50 by default).
 
