@@ -140,7 +140,7 @@ int main(int argc, char **argv){
 
 
     // save output to recreate plot
-    if(false){
+    if(true){
         V.save_points();
         Q[5].save();
     }
